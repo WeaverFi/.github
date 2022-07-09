@@ -6,7 +6,7 @@ Through our [open-source SDK](https://github.com/WeaverFi/weaverfi), we solve th
 
 **To keep up with news and updates, follow our Twitter:**
 
-![Twitter Shield](https://img.shields.io/twitter/follow/cookietrack_io?style=social)
+[<img src="https://img.shields.io/twitter/follow/weaver_fi?style=social" />](https://twitter.com/weaver_fi)
 
 **Or come chat with us through Discord:**
 
