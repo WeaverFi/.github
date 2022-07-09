@@ -12,4 +12,4 @@ Through our [open-source SDK](https://github.com/WeaverFi/weaverfi), we solve th
 
 [<img width="150px" src="https://user-images.githubusercontent.com/3408362/174302052-6757cf66-f454-4298-b150-2df023ab69e8.png" />](https://discord.com/invite/DzADcq7y75)
 
-[banner]: /profile/Banner.png? "WeaverFi"
+[banner]: /profile/Banner.png "WeaverFi"
